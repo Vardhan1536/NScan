@@ -1,0 +1,6 @@
+paddlepaddle
+paddleocr
+paddleclas
+faiss-cpu
+zxing
+google.generativeai
