@@ -1,0 +1,17 @@
+numpy
+tensorflow
+keras
+google-generativeai
+paddleocr
+pillow
+opencv-python
+matplotlib
+pandas
+sentence-transformers
+faiss-cpu
+requests
+zxing
+fastapi
+pydantic
+pymongo
+uvicorn
